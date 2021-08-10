@@ -1,0 +1,114 @@
+body {
+  font-family: "Lato", sans-serif !important;
+  color: #000000 !important;
+  background: url("../public/img/bg-1.png");
+  background-size: cover;
+  background-position: center, center;
+}
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+.navbar-logo {
+  height: 50px;
+}
+.navbar {
+  background-color: #941845;
+}
+
+.underline {
+  text-decoration: underline #941845 2px;
+}
+
+.hero-header {
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 58px;
+}
+.button {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  width: 10.5em;
+  height: 2.8em;
+  margin-top: 1.4em;
+  border-radius: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.hero-button {
+  background-color: #941845;
+  color: white;
+  text-decoration: none;
+}
+.divider {
+  color: #ffffff;
+  text-align: center;
+  background-color: #941845;
+  font-size: 25px;
+
+  padding: 0.2em 0;
+}
+.offer-container {
+  margin: auto !important;
+}
+.offer-box {
+  box-shadow: 0px 0px 2px #941845, inset 0px -6px 0px #941845;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 3em;
+  align-items: center;
+  background-color: #ffffff;
+}
+.offer-header {
+  color: #941845;
+  font-size: 22px;
+  text-align: center;
+  font-weight: 600;
+  margin-top: 0.6em;
+}
+.offer-img {
+  max-width: 60%;
+  display: block;
+  margin: auto;
+}
+.offer-button {
+  color: #941845;
+  border: #941845 1px solid;
+  margin-bottom: 1.4em;
+}
+
+.footer {
+  background-color: #941845;
+  color: #ffffff;
+  padding: 1.2em 0;
+}
+.footer-info {
+  padding-left: 1.4em;
+}
+.footer-header {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 18px;
+  display: inline-flex;
+  margin-left: 1.1em;
+}
+.footer-header::before {
+  display: block;
+  content: "";
+}
+.footer-list {
+  list-style: none;
+  padding-left: 4.5em;
+}
+.footer-link {
+  color: #cacaca;
+}
+.iconify {
+  vertical-align: middle !important;
+}

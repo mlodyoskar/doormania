@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<?php require 'partials/head.php' ?>
+<body>
+    <?php $page = "home"; ?>
+    <?php require 'db_conn.php' ?>
+    <?php require 'partials/header.php' ?>
+    <?php require 'partials/hero.php' ?>
+    <div class="divider my-5">Nasza oferta</div>
+    <?php require 'partials/landing-offer.php'?>
+    
+
+
+    <?php require 'partials/footer.php' ?>
+
+</body>
+</html>
