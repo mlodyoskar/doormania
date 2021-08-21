@@ -20,7 +20,7 @@
                 Zapewniamy profesjonalny serwis gwarancyjny i pogwarancyjny.</p>
             </div>
             <div class="col-12 col-lg-6">
-                <img class="about-img" src="../public/img/o-nas/Compressed/o-nas.jpg" alt="">
+                <img class="about-img" src="../public/img/o-nas/o-nas.jpg" alt="">
             </div>
         </section>
     </div>
