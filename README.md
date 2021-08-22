@@ -3,4 +3,4 @@
 ## Stack ⚒
 HTML, CSS, PHP, MySQL.
 
-![doormania](../sreenshot.PNG)
+![doormania](sreenshot.PNG)
