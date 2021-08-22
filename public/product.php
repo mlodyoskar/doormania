@@ -38,7 +38,7 @@
                 </p>
                 <p class="productPage-contact">
                     Po więcej szczegółów: <br>
-                    <span ><a class="contact-purple" href="tel:665-179-12">+48 665-179-12</a></span> 
+                    <span ><a class="contact-purple" href="tel:513-179-123">+48 513 179 123</a></span> 
                 </p>                            
                 </div>                    
             </div>

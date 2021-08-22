@@ -339,6 +339,9 @@ body {
     background-size: cover;
     background-position: top, top;
   }
+  .map {
+    height: 100%;
+  }
   .nav-item {
     margin: auto 1.6em;
   }
@@ -472,6 +475,7 @@ body {
   }
   .productPage-img {
     margin: 0;
+    height: 80%;
   }
   .productPage-name {
     text-align: start;

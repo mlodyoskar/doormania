@@ -49,8 +49,8 @@
                     <span class="iconify-inline" data-icon="ic:outline-watch-later" data-width="48" data-height="48"></span>
                     <h3 class="footer-header hours">Godziny pracy</h3>
                     <ul class="footer-list_contact">
-                        <li>poniedziałek-piątek: 7:00 - 15:00</li>
-                        <li>sobota: 7:00 - 15:00</li>
+                        <li>poniedziałek-piątek: 7:00 - 22:00</li>
+                        <li>sobota: 7:00 - 13:00</li>
                     </ul>
                 </div>
             </div>
