@@ -1,7 +1,7 @@
 body {
   font-family: "Lato", sans-serif !important;
   color: #000000 !important;
-  background: url("../public/img/bg-1.png");
+  background: url("/public/img/bg-1.png");
   background-size: contain;
   background-position: top, top;
 }
@@ -266,6 +266,13 @@ body {
 .contact-purple {
   color: #941845;
 }
+.line {
+  height: 2px;
+  width: 100%;
+  background: #DFDFDF;
+  display: block;
+}
+
 
 .footer {
   background-color: #941845;
@@ -484,20 +491,27 @@ body {
   .productPage-shortDesc {
     text-align: start;
   }
-  .productPage-priceBox {
-    margin-top: 3em;
-    display: flex;
+  .productPage--version--name {
+    color: #721034;
+    font-size: 20px;
   }
 
-  .productPage-price {
-    font-size: 26px;
-    margin-right: 3em;
+  .productPage--verison--price {
+    font-size: 18px;
+    text-align: start;
+    margin-bottom: 0.5em;
+  }
+  .productPage-list > li{
+    font-size: 15px;
   }
   .price-purple {
-    font-size: 28px;
+    font-size: 16px;
   }
   .productPage-contact {
     font-size: 24px;
+  }
+  .productPage-available{
+   margin-top: 1em;
   }
   .contact-purple {
     color: #941845;

@@ -14,4 +14,3 @@
         return $conn;
     }
     $conn = connect_to_db($servername, $username, $password, $db_name);
-    ?>

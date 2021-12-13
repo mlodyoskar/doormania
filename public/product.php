@@ -31,17 +31,39 @@
                 <h2 class="productPage-name"><?php echo $productName; ?></h2>
                 <p class="productPage-shortDesc"><?php echo $shortDesc; ?></p>
                 <p class="productPage-longDesc"><?php echo $longDesc; ?></p>
-                <div class="productPage-priceBox">
-                    <p class="productPage-price">
-                    Cena brutto od: <br>
-                    <span class="price-purple"><?php echo $price; ?> PLN</span> 
-                </p>
-                <p class="productPage-contact">
-                    Po więcej szczegółów: <br>
-                    <span ><a class="contact-purple" href="tel:513-179-123">+48 513 179 123</a></span> 
-                </p>                            
-                </div>                    
+                <div class="line"></div>
+                <p class="productPage-available">Dostępne wersje:</p>
+                <div class="row">
+                    <div class="col-4">
+                        <h4 class="productPage--version--name">Optima</h4>
+                        <p class="productPage--verison--price">Cena brutto: <span class="price-purple">1990zł</span></p>
+                        <ul class="productPage-list">
+                            <li>Grubość 36mm</li>
+                            <li>Grubość 36mm</li>
+                            <li>Grubość 36mm</li>
+                        </ul>
+                    </div>
+                    <div class="col-4">
+                        <h4 class="productPage--version--name">Optima</h4>
+                        <p class="productPage--verison--price">Cena brutto: <span class="price-purple">1990zł</span></p>
+                        <ul class="productPage-list">
+                            <li>Grubość 36mm</li>
+                            <li>Grubość 36mm</li>
+                            <li>Grubość 36mm</li>
+                        </ul>
+                    </div>
+                    <div class="col-4">
+                        <h4 class="productPage--version--name">Optima</h4>
+                        <p class="productPage--verison--price">Cena brutto: <span class="price-purple">1990zł</span></p>
+                        <ul class="productPage-list">
+                            <li>Grubość 36mm</li>
+                            <li>Grubość 36mm</li>
+                            <li>Grubość 36mm</li>
+                        </ul>
+                    </div>
+                </div>
             </div>
+
         </div>
     </div>
 
